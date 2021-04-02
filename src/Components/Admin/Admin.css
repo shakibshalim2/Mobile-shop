@@ -1,0 +1,14 @@
+.form{
+margin-top: 10%;
+background-color: rgb(150, 187, 180);
+    border-radius: 2%;
+   width: 50%;
+
+}
+.form-data{
+padding: 20px;
+
+}
+.image-field{
+    margin-left: 15%;
+}

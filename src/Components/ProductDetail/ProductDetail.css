@@ -1,0 +1,33 @@
+.cart-body{
+    text-align: center;
+    margin-top: 5%;
+    background-color: rgb(251, 246, 246);
+    border-radius: 10px;
+      }
+      .cart-item{
+    margin-top: 6%;
+      }
+      .link-button{
+    background-color: rgb(240, 217, 190);
+    color: rgb(74, 63, 50);
+    border-radius: 4px;
+      }
+      .price-bg{
+      background-color: rgb(247, 244, 240);
+      width: 648%;
+      border-radius: 5px;
+      }
+      .total-price{
+          margin-right: 85%;
+          margin-top: 1.5%;
+      }
+      .price{
+          margin-top: 11%;
+      }
+    .link-button:hover{
+    background-color: rgb(221, 213, 194);
+    
+    }
+    .btn{
+margin-left: 86%;
+    }
