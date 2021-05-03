@@ -1,5 +1,5 @@
 ## Mobile Shop
-Here user can buy mobile, [Live Site](https://mobile-store-ddad2.web.app/), [Client Repo](https://github.com/shakibshalim2/Mobile-shop), [Server Repo](https://github.com/shakibshalim2/mobile-store-server)
+Here user can buy mobile, [Live Site](https://mobile-store-ddad2.web.app/), [Server Repo](https://github.com/shakibshalim2/mobile-store-server)
 In the webiste user can
 
 1. Buy any product and set to the cart.
